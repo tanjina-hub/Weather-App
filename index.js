@@ -65,7 +65,7 @@ updateWeatherApp = (city) => {
     }
 
     cardInfo.classList.remove('d-none');
-}
+}   
 
 
 
